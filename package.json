@@ -16,7 +16,7 @@
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
     "emotion-theming": "^10.0.27",
-    "next": "^9.5.5",
+    "next": "^14.0.3",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-spectrum": "^1.1.5"
